@@ -25,5 +25,9 @@ SIMPLEDEMO/
           └── ci-cd.yml
 ``` 
 
+<<<<<<< HEAD
 # MBMC Session
 - Prabhat Tamang
+=======
+# MBMC Session 
+>>>>>>> f86a7f7c3ad7db862ead903cf7f8f24f30347aee
