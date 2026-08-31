@@ -27,3 +27,5 @@ SIMPLEDEMO/
 
 # MBMC Session 
 - Samip
+- Prabhat Tamang
+
